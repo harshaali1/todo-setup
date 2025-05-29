@@ -1,0 +1,3 @@
+public and private key : own private key , other can decrypt using that public key   
+asymm key -> encryption , 
+symm key -> bulk data, one common symm key -> hybrid encryption 
